@@ -23,7 +23,6 @@ C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\scopedc
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\scopedcss\bundle\portfolio.styles.css
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\scopedcss\projectbundle\portfolio.bundle.scp.css
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\io8t098l6z-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\4c4lbjo93f-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\arksqaiy9j-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\9y8p1nvyvk-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -71,8 +70,6 @@ C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compres
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\213wvqjzj4-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\w8pwsm4dv3-{0}-mgww215af1-mgww215af1.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\ixf7bgiw6q-{0}-dy8h75y8gn-dy8h75y8gn.gz
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\rgm696yb8w-{0}-9mmlcouj19-9mmlcouj19.gz
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\jdna7lrp23-{0}-9mmlcouj19-9mmlcouj19.gz
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\staticwebassets.development.json
@@ -83,3 +80,7 @@ C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\refint\
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfolio.pdb
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfolio.genruntimeconfig.cache
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\ref\portfolio.dll
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfolio.sourcelink.json
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\rgm696yb8w-{0}-biziprryrk-biziprryrk.gz
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\jdna7lrp23-{0}-biziprryrk-biziprryrk.gz
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\io8t098l6z-{0}-2wi6pmynfy-2wi6pmynfy.gz
