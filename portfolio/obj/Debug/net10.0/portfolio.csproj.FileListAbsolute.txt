@@ -81,6 +81,6 @@ C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfol
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfolio.genruntimeconfig.cache
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\ref\portfolio.dll
 C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\portfolio.sourcelink.json
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\rgm696yb8w-{0}-biziprryrk-biziprryrk.gz
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\jdna7lrp23-{0}-biziprryrk-biziprryrk.gz
-C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\io8t098l6z-{0}-2wi6pmynfy-2wi6pmynfy.gz
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\io8t098l6z-{0}-seyhjdsvbb-seyhjdsvbb.gz
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\rgm696yb8w-{0}-7a08kt1jm9-7a08kt1jm9.gz
+C:\Users\Capecenio\Desktop\MYPROJECTS\shemmb\portfolio\obj\Debug\net10.0\compressed\jdna7lrp23-{0}-7a08kt1jm9-7a08kt1jm9.gz

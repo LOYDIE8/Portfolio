@@ -1,9 +1,9 @@
 :root {
-    --bg-color: #0b0f19;          /* Deep dark background */
-    --nav-bg: #111827;            /* Slightly lighter for sidebar */
+    --bg-color: #0e1f32;          /* Deep dark background */
+    --nav-bg: #010210c6;            /* Darker background for the sidebar */
     --text-main: #e2e8f0;
     --text-muted: #9ca3af;
-    --neon-cyan: #00f3ff;         /* The main glow color */
+    --neon-cyan: #00f3ff;         
     --neon-glow: 0 0 5px rgba(0, 243, 255, 0.4), 0 0 15px rgba(0, 243, 255, 0.2);
     --neon-glow-hover: 0 0 10px #00f3ff, 0 0 20px rgba(0, 243, 255, 0.8), 0 0 30px rgba(0, 243, 255, 0.6);
 }
