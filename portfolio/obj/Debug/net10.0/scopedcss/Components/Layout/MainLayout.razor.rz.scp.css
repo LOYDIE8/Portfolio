@@ -94,15 +94,3 @@ main[b-69q5618dqg] {
         right: 0.75rem;
         top: 0.5rem;
     }
-
-body[b-69q5618dqg] {
-  /* This will make the GIF cover the whole screen */
-  background-image: url('bg.gif');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Keeps it from scrolling with the page */
-  
-  /* Adding a dark overlay so your text is still readable */
-  background-color: rgba(0, 0, 0, 0.6); 
-  background-blend-mode: overlay;
-}

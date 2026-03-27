@@ -1,6 +1,6 @@
 :root {
-    --bg-color: #0e1f32;          /* Deep dark background */
-    --nav-bg: #010210c6;            /* Darker background for the sidebar */
+    --bg-color: #0e1f32;
+    --nav-bg: #010210c6;
     --text-main: #e2e8f0;
     --text-muted: #9ca3af;
     --neon-cyan: #00f3ff;         
@@ -9,11 +9,19 @@
 }
 
 html, body {
-    background-color: var(--bg-color);
+    /* Adding the GIF here */
+    background-image: linear-gradient(rgba(14, 31, 50, 0.85), rgba(14, 31, 50, 0.85)), 
+                      url('bg.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
     color: var(--text-main);
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-
 /* Make text cyan and glowing */
 .neon-text {
     color: var(--neon-cyan);
